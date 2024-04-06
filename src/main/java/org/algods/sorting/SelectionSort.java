@@ -1,4 +1,4 @@
-package sorting;
+package org.algods.sorting;
 import java.util.*;
 import java.lang.*;
 public class SelectionSort implements ISort{
